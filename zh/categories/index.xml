@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | Chinese website title...</title>
+    <link>https://cainpierrot1231.github.io/zh/categories/</link>
+      <atom:link href="https://cainpierrot1231.github.io/zh/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://cainpierrot1231.github.io/media/icon_hue85263c2d893bd338a52291d17942365_1664787_512x512_fill_lanczos_center_3.png</url>
+      <title>Categories</title>
+      <link>https://cainpierrot1231.github.io/zh/categories/</link>
+    </image>
+    
+  </channel>
+</rss>
